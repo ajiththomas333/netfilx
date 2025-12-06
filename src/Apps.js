@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from './components/navBar'
 import { action,originals } from './urls'
-import './app.css'
+import './App.css'
 import Banner from './components/banner/Banner'
 import Rowpost from './components/rowpost/rowpost'
 function Apps() {
